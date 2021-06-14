@@ -24,7 +24,7 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 
 ### Yêu cầu phiên bản (Required version)
 
-- 0.1.0-beta.14 hoặc cao hơn (0.1.0-beta.14 or later)
+- 1.0.0-dev hoặc cao hơn (1.0.0-dev or later)
 
 ### Tiện ích được hỗ trợ (Extentions supported)
 
