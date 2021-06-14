@@ -1,4 +1,4 @@
-## Vietnamese extention for Flarum v1.0.1.2
+## Vietnamese extention for Flarum v1.0.0
 
 Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộng được hỗ trợ
 
