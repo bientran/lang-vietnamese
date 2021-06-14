@@ -1,5 +1,5 @@
 {
-	"name": "flarum/lang-vietnamese",
+	"name": "flarum-extensions/lang-vietnamese",
 	"version": "1.0.0",
 	"description": "Vietnamese language pack (datlechin)",
 	"type": "flarum-extension",
