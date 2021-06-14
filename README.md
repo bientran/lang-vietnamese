@@ -1,26 +1,33 @@
-## Vietnamese extention for Flarum v1.0.0
+## Vietnamese extention for Flarum v1.0.1.2
+
 Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộng được hỗ trợ
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![](https://img.shields.io/packagist/v/datlechin/lang-vietnamese.svg)
+![](https://img.shields.io/packagist/v/bientran/lang-vietnamese.svg)
 
-![](https://img.shields.io/packagist/dt/datlechin/lang-vietnamese.svg)
+![](https://img.shields.io/packagist/dt/bientran/lang-vietnamese.svg)
 
 ## Thông tin (Infomation)
+
 ### Cài đặt, Cập nhật (Installation, Update)
-`composer require datlechin/lang-vietnamese`
+
+`composer require bientran/lang-vietnamese`
 
 ### Xóa (Remove)
-`composer remove datlechin/lang-vietnamese`
+
+`composer remove bientran/lang-vietnamese`
 
 ### Xóa cache (Clear Cache)
+
 `php flarum cache:clear`
 
 ### Yêu cầu phiên bản (Required version)
+
 - 0.1.0-beta.14 hoặc cao hơn (0.1.0-beta.14 or later)
 
 ### Tiện ích được hỗ trợ (Extentions supported)
+
 <details>
   <summary>Flarum</summary>
   <ul>
@@ -96,7 +103,8 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 </details>
 
 ### Links
+
 - [My Forum](https://vieit.net)
-- [Github](https://github.com/datlechin/lang-vietnamese)
-- [Packagist](https://packagist.org/packages/datlechin/lang-vietnamese)
-- [Flagrow](https://flagrow.io/extensions/datlechin/lang-vietnamese)
+- [Github](https://github.com/bientran/lang-vietnamese)
+- [Packagist](https://packagist.org/packages/bientran/lang-vietnamese)
+- [Flagrow](https://flagrow.io/extensions/bientran/lang-vietnamese)
